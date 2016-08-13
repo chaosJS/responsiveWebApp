@@ -34,27 +34,27 @@ li {
 }
 
 .pull-right {
-    float: right;
+    float: right
 !important;
 }
 
 .pull-left {
-    float: left;
+    float: left
 !important;
 }
 
 .text-right {
-    text-align: right;
+    text-align: right
 !important;
 }
 
 .text-left {
-    text-align: left;
+    text-align: left
 !important;
 }
 
 .text-center {
-    text-align: center;
+    text-align: center
 !important;
 }
 
@@ -307,6 +307,7 @@ header .main ul li a.active {
     line-height: 3rem;
     color: #fff;
 }
+
 /*交易信息媒体查询的开始*/
 @media only screen and (max-width: 50em) {
 
@@ -347,11 +348,13 @@ header .main ul li a.active {
         padding: 0;
     }
 }
+
 /*交易信息媒体查询的结束*/
 /*图片轮播开始*/
-.ad{
+.ad {
 
 }
+
 /*图片轮播结束*/
 .feature {
     width: 90%;
@@ -362,7 +365,7 @@ header .main ul li a.active {
 
 .feature .item {
     display: inline-block;
-    width: calc(33.33333% - 3rem);
+    width: calc(33.333% - 3rem);
     /*css3计算：3等分减去*/
     padding: 1rem;
     font-size: 1.4rem;
@@ -394,6 +397,7 @@ header .main ul li a.active {
     overflow: hidden;
     white-space: nowrap;
 }
+
 /*feature媒体查询开始*/
 @media only screen and (min-width: 30.0625em) and (max-width: 50em) {
 
@@ -471,6 +475,7 @@ header .main ul li a.active {
     margin-right: 2rem;
     color: #ff9900;
 }
+
 /*通知列媒体查询开始*/
 @media only screen and (max-width: 30em) {
 
@@ -618,6 +623,7 @@ header .main ul li a.active {
     background-color: #ccc !important;
     cursor: not-allowed;
 }
+
 /*产品部分媒体查询开始*/
 @media only screen and (max-width: 50em) {
 
@@ -741,6 +747,7 @@ header .main ul li a.active {
     font-size: 1.6rem;
     line-height: 3rem;
 }
+
 /*底部导航媒体查询开始*/
 @media only screen and (max-width: 50em) {
 
@@ -773,6 +780,7 @@ header .main ul li a.active {
         line-height: 2rem;
     }
 }
+
 /*底部导航媒体查询结束*/
 /*footer底部样式*/
 footer {
