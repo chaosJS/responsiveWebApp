@@ -13,7 +13,7 @@
 	6. respond：为老的IE提供媒体查询
 
 4. 移动设备兼容性测试
-	1. 安卓：www.genymotion.net或者虚拟机
+	1. 安卓：www.genymotion.net 		或者使用虚拟机
 	2. IOS：常见
 
 5. 多设备集成调试：www.browsersync.cn  多设备同步测试工具
