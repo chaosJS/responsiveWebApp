@@ -349,7 +349,9 @@ header .main ul li a.active {
 }
 /*交易信息媒体查询的结束*/
 /*图片轮播开始*/
-/*站位*/
+.ad{
+
+}
 /*图片轮播结束*/
 .feature {
     width: 90%;
